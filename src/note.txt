@@ -1,0 +1,3 @@
+in this project we'll see redux cartstore with bootstrap 
+and then simple redux sidebar
+
